@@ -2,7 +2,7 @@ package swea;
 
 import java.util.Scanner;
 
-public class SW_1244_백만장자 {
+public class SWEA_1244_최대상금 {
     static int trial;
     static int arr[];
     static int max = 0;
